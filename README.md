@@ -1,6 +1,6 @@
-# Hi, I'm Rezi 👋
+# Hi, I'm Izer 👋
 
-> **Full-Stack Developer, Creative Technologist & Former OSIS President.**  
+> **Full-Stack Developer, Creative Technologist & Former Student Council President.**  
 > Focused on building robust web architectures, seamless user experiences, and creative digital solutions.
 
 ---
@@ -22,3 +22,5 @@
 - 🌿 **[Greenify](https://github.com/Izerrr/greenify)** – Sustainability app tracking carbon emissions and daily eco-habits via relational data modeling.
 
 🌐 **Portfolio**: [izerworks.my.id](https://izerworks.my.id)
+
+### Looking forward to contributing more!
