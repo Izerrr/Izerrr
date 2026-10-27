@@ -16,7 +16,7 @@
 
 ### 🚀 Featured Systems & Flagship Projects
 
-#### ⚡ [TaskPanel FATISDA](https://github.com/Izerrr)
+#### ⚡ [TaskPanel FATISDA](https://github.com/Izerrr/FATISDA26-TaskPanel)
 *Unified Academic Task & Schedule Workspace for University Students*
 - **Stack**: Next.js 14, TypeScript, Tailwind CSS, PostgreSQL, Prisma ORM, NextAuth, SWR
 - **Architecture**: Dual-scope Kanban board (`CLASS` vs `PERSONAL`), 2D spatial room-to-schedule matrix, context-aware WhatsApp notification generator, and dual OAuth integration (Google Student SSO & Discord role mapping).
@@ -38,7 +38,7 @@
 
 #### 🏛️ [Izerworks Ecosystem](https://izerworks.my.id)
 *Headless Architecture Personal Brand & Custom Management Engine*
-- **Frontend ([Izer-Porto](https://github.com/Izerrr/Izer-pOrto))**: Next.js client-side architecture with GSAP page transitions and cross-subdomain session management.
+- **Frontend ([Izer-Porto](https://github.com/Izerrr/Izer-Porto))**: Next.js client-side architecture with GSAP page transitions and cross-subdomain session management.
 - **Backend ([Izer-Porto-Backend](https://github.com/Izerrr/Izer-Porto-Backend))**: Hardened PHP Native REST API featuring strict CORS preflight middleware, IP rate-limiting, and HttpOnly secure cookie flows.
 
 #### 🖊️ [Digital Signature Engine](https://github.com/Izerrr/signature-engine)
@@ -51,5 +51,5 @@
 ### 🌐 Connect & Explore
 
 - **Website**: [izerworks.my.id](https://izerworks.my.id)
-- **LinkedIn**: [linkedin.com/in/rayhan-fahrezi-setiawan](https://linkedin.com)
+- **LinkedIn**: [linkedin.com/in/rayhan-fahrezi-setiawan](https://linkedin.com/rayhan-fahrezi-setiawan)
 - **Email**: [Contact via Website](https://izerworks.my.id)
